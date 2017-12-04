@@ -1,1 +1,1 @@
-# eth-private-blockchain
+# Ethereum Hello World Blockchain Application
